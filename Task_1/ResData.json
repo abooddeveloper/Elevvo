@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Hassan",
+    "email": "ahmed.hassan@example.com",
+    "age": 24,
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Sara Mohamed",
+    "email": "sara.mohamed@example.com",
+    "age": 22,
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Omar Ali",
+    "email": "omar.ali@example.com",
+    "age": 27,
+    "role": "user",
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Mariam Adel",
+    "email": "mariam.adel@example.com",
+    "age": 25,
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Youssef Ibrahim",
+    "email": "youssef.ibrahim@example.com",
+    "age": 29,
+    "role": "moderator",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "name": "Nour Khaled",
+    "email": "nour.khaled@example.com",
+    "age": 21,
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "name": "Mahmoud Samir",
+    "email": "mahmoud.samir@example.com",
+    "age": 31,
+    "role": "user",
+    "isActive": false
+  },
+  {
+    "id": 8,
+    "name": "Laila Mostafa",
+    "email": "laila.mostafa@example.com",
+    "age": 26,
+    "role": "user",
+    "isActive": true
+  }
+]
